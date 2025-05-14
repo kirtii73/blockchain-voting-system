@@ -47,9 +47,3 @@ A secure and transparent decentralized voting system built using **Ethereum**, *
 
 ---
 
-## 🛠 Installation
-
-```bash
-git clone https://github.com/rohittrana/blockchain-voting-system.git
-cd blockchain-voting-system
-npm install both in frontend and backend you have to install npm insatll for installing packages 
